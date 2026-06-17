@@ -4,6 +4,8 @@
 [![VS2017](https://img.shields.io/badge/Build-VS2017-purple.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+English | [中文](README_CN.md)
+
 Code examples from "C++ Concurrency in Action" by Anthony Williams, with bug fixes and improvements to the original book code.
 
 ## Table of Contents
